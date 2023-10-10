@@ -1,0 +1,62 @@
+.fundoum{
+    background-color: rgba(244, 244, 252);
+    border: 1px solid rgba(209, 214, 218);
+}
+.fundodois{
+    background-color: rgb(255, 255, 255);
+}
+footer{
+    background-color: rgb(181, 56, 18);
+    font-size: 10px;
+}
+.centralizar{
+    text-align: center;
+}
+.esquerda{
+    text-align: left;
+}
+.direita{
+    text-align: right;
+}
+.imgDisplay{
+    width: 100px;
+    height: auto;
+}
+.imgDisplayB {
+    max-width: 40%;
+    height: auto;
+    margin-right: 10px; 
+}
+.imgDisplayC{
+    width: 300px;
+    height: auto;
+}
+.imgDisplayD{
+    width: 50px;
+    height: auto;
+}
+::placeholder{
+    color: rgb(172, 172, 179);
+}
+input[type="text"] {
+    color: rgb(186, 22, 22);
+    width: 200px;
+    height: 40px;
+    border: 2px solid rgba(209, 214, 218);
+}
+button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(108, 132, 148);
+    width: 200px;
+    height: 40px;
+    border: 2px solid rgba(209, 214, 218);
+}
+.custom-column {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.vertical{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}
