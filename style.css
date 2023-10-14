@@ -21,6 +21,7 @@ footer{
 .imgDisplay{
     width: 100px;
     height: auto;
+    max-inline-size: 3%;
 }
 .imgDisplayB {
     max-width: 40px;
@@ -58,4 +59,14 @@ button{
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
+}
+.esquerdo{
+    margin-right: 6%;
+    width: 500px;
+    padding-right: 5%;
+}
+.direito{
+    margin-right: 6%;
+    width: 390px;
+    padding-left: 5%;
 }
